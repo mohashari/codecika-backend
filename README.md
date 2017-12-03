@@ -1,6 +1,6 @@
 ##Cari Parking - User Management Service
 
-Provide API to create user with role admin or surveyor
+Provide API to create user with role
 
 ### Requirement :
 
@@ -10,7 +10,7 @@ Provide API to create user with role admin or surveyor
 
 ### Prerequisite - MySQL :
 
-1. Create database `usermanagement` in MySQL
+1. Create database `codecika-usermanagement` in MySQL
 2. Username `usermanagement`
 3. Password `welcome1`
 
