@@ -1,0 +1,651 @@
+NAME;TYPE;VEHICLE_TYPE
+Alfa Romeo;4C;C
+Audi;A1;C
+Audi;A3;C
+Audi;A4;C
+Audi;A5;C
+Audi;A6;C
+Audi;A7;C
+Audi;A8;C
+Audi;Q3;C
+Audi;Q5;C
+Audi;Q7;C
+Audi;R8;C
+Audi;TT;C
+Bentley;Continental;C
+Bentley;Mulsanne;C
+BMW;BMW 1 Series;C
+BMW;BMW 2 Series;C
+BMW;BMW 3 Series;C
+BMW;BMW 4 Series;C
+BMW;BMW 5 Series;C
+BMW;BMW 6 Series;C
+BMW;BMW 7 Series;C
+BMW;BMW M Models;C
+BMW;BMW X Models;C
+BMW;BMW Z Series;C
+BMW;BMWi;C
+Chery;QQ;C
+Chery;Tiggo;C
+Chevrolet;Aveo;C
+Chevrolet;Blazer;C
+Chevrolet;Captiva;C
+Chevrolet;Optra;C
+Chevrolet;Orlando;C
+Chevrolet;Spark;C
+Chevrolet;Spin;C
+Chrysler;Chrysler Sebring;C
+Chrysler;PT Cruiser;C
+Daihatsu;Ayla;C
+Daihatsu;Ceria;C
+Daihatsu;Charade;C
+Daihatsu;Charmant;C
+Daihatsu;Classy;C
+Daihatsu;Copen;C
+Daihatsu;Delta;C
+Daihatsu;Espass;C
+Daihatsu;Feroza;C
+Daihatsu;Gran Max;C
+Daihatsu;Hi Max;C
+Daihatsu;Hijet;C
+Daihatsu;Luxio;C
+Daihatsu;Sigra;C
+Daihatsu;Sirion;C
+Daihatsu;Taft;C
+Daihatsu;Taruna;C
+Daihatsu;Terios;C
+Daihatsu;Xenia;C
+Daihatsu;YRV;C
+Daihatsu;Zebra;C
+Datsun;Datsun;C
+Datsun;Datsun Go;C
+Datsun;Datsun Go+;C
+Dodge;Journey;C
+Dodge;Neon;C
+Ferrari;458;C
+Ferrari;California;C
+Ferrari;F12;C
+Ferrari;F40;C
+Ferrari;F430;C
+Ferrari;FF;C
+Fiat;Fiat 500;C
+Fiat;Fiat Uno;C
+Ford;Ecosport;C
+Ford;Escape;C
+Ford;Everest;C
+Ford;Fiesta;C
+Ford;Focus;C
+Ford;Lacer;C
+Ford;Ranger;C
+Geely;Emgrand EC7;C
+Geely;Emgrand RV;C
+Geely;LC Cross;C
+Geely;LC GL;C
+Geely;LC GS;C
+Geely;MK GS;C
+Geely;MK GT;C
+Geely;MK2 GS;C
+Geely;MK2 GT;C
+Geely;Panda;C
+Geely;TX4;C
+Holden;Commodore;C
+Holden;EJ;C
+Holden;HJ;C
+Holden;HK;C
+Holden;HQ;C
+Holden;HX;C
+Holden;Statesman;C
+Holden;Torana;C
+Honda;Accord;C
+Honda;Airwave;C
+Honda;All New City;C
+Honda;Brio;C
+Honda;BR-V;C
+Honda;Cielo;C
+Honda;City;C
+Honda;Civic;C
+Honda;CRV;C
+Honda;CRX;C
+Honda;CRZ;C
+Honda;Del Sol;C
+Honda;Edix;C
+Honda;Element;C
+Honda;Estillo;C
+Honda;Fit;C
+Honda;Freed;C
+Honda;Hi-Max;C
+Honda;Honda S 2000;C
+Honda;HRV;C
+Honda;Insight;C
+Honda;Integra;C
+Honda;Jazz;C
+Honda;Clio;C
+Honda;Odyssey;C
+Honda;Passport;C
+Honda;Pilot;C
+Honda;Prelude;C
+Honda;Stream;C
+Hummer;H2;C
+Hummer;H3;C
+Hyundai;Accent;C
+Hyundai;Avega;C
+Hyundai;Azera;C
+Hyundai;Elantra;C
+Hyundai;Getz;C
+Hyundai;Grand Avega;C
+Hyundai;H-1;C
+Hyundai;H-100;C
+Hyundai;I10;C
+Hyundai;I20;C
+Hyundai;Ioniq;C
+Hyundai;Santa FE;C
+Hyundai;Sonata;C
+Hyundai;Starex Mover;C
+Hyundai;Tiburon;C
+Hyundai;Tucson;C
+Hyundai;Veloster;C
+Infiniti;Q50;C
+Infiniti;Q60;C
+Infiniti;Q70;C
+Infiniti;QX70;C
+Infiniti;QX80;C
+Isuzu;Bison;C
+Isuzu;D-Max;C
+Isuzu;Elf Microbus;C
+Isuzu;Elf N Series;C
+Isuzu;Isuzu New GIGA;C
+Isuzu;Isuzu Pick Up;C
+Isuzu;MU-7;C
+Isuzu;MUX;C
+Isuzu;Panther;C
+Jaguar;F-Pace;C
+Jaguar;S ;C
+Jaguar;X;C
+Jaguar;XE;C
+Jaguar;XF;C
+Jaguar;XJL;C
+Jeep;Cherokee;C
+Jeep;CJ;C
+Jeep;Compass;C
+Jeep;Grand Cherokee;C
+Jeep;Patriot;C
+Jeep;TJ;C
+Jeep;Wrangler;C
+Jeep;YJ;C
+KIA;Big-up;C
+KIA;Cadenza;C
+KIA;Carnival;C
+KIA;Forte 5;C
+KIA;K2700 / Travello;C
+KIA;K900;C
+KIA;Niro;C
+KIA;Optima;C
+KIA;Picanto;C
+KIA;Pregio;C
+KIA;Pride;C
+KIA;Rio;C
+KIA;Sedona;C
+KIA;Sephia;C
+KIA;Sorento;C
+KIA;Soul;C
+KIA;Sportage;C
+KIA;Stinger;C
+Lamborghini;Aventador;C
+Lamborghini;Diablo;C
+Lamborghini;Gallardo;C
+Lamborghini;Huracan;C
+Lamborghini;Murcielago;C
+Landrover;Defender;C
+Landrover;Discovery AT;C
+Landrover;Evoque;C
+Landrover;Freelander;C
+Landrover;Range Rover;C
+Lexus;ES250;C
+Lexus;GS250;C
+Lexus;GS300;C
+Lexus;GS450;C
+Lexus;IS 250;C
+Lexus;IS300;C
+Lexus;"ISF 4;0";C
+Lexus;Lexus CT;C
+Lexus;Lexus GS;C
+Lexus;LS460L;C
+Lexus;LS600;C
+Lexus;LX570;C
+Lexus;NX 200;C
+Lexus;RX270;C
+Lexus;RX350;C
+Lexus;RX450;C
+Lexus;RXT 200;C
+Lotus;Elise;C
+Lotus;Exige;C
+Masserati;Ghibli;C
+Masserati;Gran Cabrio;C
+Masserati;Gran Turismo;C
+Masserati;Levante;C
+Masserati;Quattroporte;C
+Mazda;Mazda 2;C
+Mazda;Mazda 3;C
+Mazda;Mazda 323;C
+Mazda;Mazda 6;C
+Mazda;Mazda 626;C
+Mazda;Mazda 8;C
+Mazda;Mazda 808;C
+Mazda;Mazda Biante;C
+Mazda;Mazda BT-50;C
+Mazda;Mazda CX-3;C
+Mazda;Mazda CX-5;C
+Mazda;Mazda CX-7;C
+Mazda;Mazda CX-9;C
+Mazda;Mazda MX-5;C
+Mazda;Mazda MX-6;C
+Mazda;Mazda RX-8;C
+Mazda;Mazda Vantrend;C
+Mazda;Mazda VX-1;C
+Mazda;Mazda VX-1;C
+Mercedes;A-Class;C
+Mercedes;AMG GT;C
+Mercedes;B-Class;C
+Mercedes;C-Class;C
+Mercedes;CLA-Class;C
+Mercedes;CL-Class;C
+Mercedes;CLS-Class;C
+Mercedes;E-Class;C
+Mercedes;G-Class;C
+Mercedes;GLC-Class;C
+Mercedes;GL-Class;C
+Mercedes;GLE-Class;C
+Mercedes;GLS-Class;C
+Mercedes;M-Class;C
+Mercedes;ML-Class;C
+Mercedes;R-Class;C
+Mercedes;S-Class;C
+Mercedes;SL-Class;C
+Mercedes;SLK-Class;C
+Mercedes;SLS AMG;C
+Mercedes;V-Class;C
+Mercedes;Viano;C
+Mini;Clubman;C
+Mini;Cooper Coupe;C
+Mini;Cooper Hatch;C
+Mini;Cooper Roadster;C
+Mini;Countryman;C
+Mini;John Cooper;C
+Mini;Moke;C
+Mini;Morris;C
+Mini;Paceman;C
+Mitsubishi;Colt;C
+Mitsubishi;Delica;C
+Mitsubishi;Fuso;C
+Mitsubishi;Galant;C
+Mitsubishi;GLS Invecs;C
+Mitsubishi;Grandis;C
+Mitsubishi;I-MIEV;C
+Mitsubishi;Kuda;C
+Mitsubishi;L-200;C
+Mitsubishi;L-300;C
+Mitsubishi;Lancer;C
+Mitsubishi;Maven;C
+Mitsubishi;Mirage;C
+Mitsubishi;Outlander;C
+Mitsubishi;Outlander Sport;C
+Mitsubishi;Pajero;C
+Mitsubishi;Pajero Sport;C
+Mitsubishi;Strada Triton;C
+Mitsubishi;T-120;C
+Mitsubishi;Xpander;C
+Nissan;Almera;C
+Nissan;Elgrand;C
+Nissan;Evalia;C
+Nissan;Frontier;C
+Nissan;Grand Livina;C
+Nissan;Grand Livina X-Gear;C
+Nissan;GT-R;C
+Nissan;Juke;C
+Nissan;Latio;C
+Nissan;Livina;C
+Nissan;March;C
+Nissan;Murano;C
+Nissan;Navara Sport;C
+Nissan;NP-200;C
+Nissan;NP-300;C
+Nissan;Patrol;C
+Nissan;Serena;C
+Nissan;Skyline;C
+Nissan;Teana;C
+Nissan;Terano;C
+Nissan;X-Trail;C
+Peugeot;107;C
+Peugeot;206;C
+Peugeot;207;C
+Peugeot;208;C
+Peugeot;408;C
+Peugeot;508;C
+Peugeot;3008;C
+Peugeot;5008;C
+Peugeot;308 SW;C
+Peugeot;407 SW;C
+Peugeot;EXPERT HDI;C
+Peugeot;RCZ;C
+Porsche;911;C
+Porsche;996;C
+Porsche;Boxter;C
+Porsche;Cayenne;C
+Porsche;Cayman;C
+Porsche;Macan;C
+Porsche;Panamera;C
+Proton;Exora;C
+Proton;Gen 2;C
+Proton;Neo;C
+Proton;Persona;C
+Proton;Preve;C
+Proton;Saga;C
+Proton;Savvy;C
+Proton;Suprima;C
+Proton;Waja;C
+Proton;Wira;C
+Renault;Clio;C
+Renault;Duster;C
+Renault;Koleos;C
+Renault;KWID;C
+Smart;Cabrio Passion;C
+Smart;Coupe Passion;C
+Smart;Coupe Pure;C
+Subaru;BRZ;C
+Subaru;Exiga;C
+Subaru;Forester;C
+Subaru;Impreza;C
+Subaru;Legacy;C
+Subaru;Outback;C
+Subaru;R1;C
+Subaru;R2;C
+Subaru;XV;C
+Suzuki;Aerio;C
+Suzuki;APV;C
+Suzuki;Baleno;C
+Suzuki;Carry;C
+Suzuki;Carry Pick Up;C
+Suzuki;Celerio;C
+Suzuki;Ciaz;C
+Suzuki;Dreza;C
+Suzuki;Ertiga;C
+Suzuki;Escudo;C
+Suzuki;Every;C
+Suzuki;Grand Vitara;C
+Suzuki;Ignis;C
+Suzuki;Karimun;C
+Suzuki;Katana;C
+Suzuki;Splash;C
+Suzuki;Swift;C
+Suzuki;SX4;C
+Suzuki;SX4 S-Cross;C
+Suzuki;Wagon R;C
+Suzuki;X-Over;C
+Tata;Aria;C
+Tata;Manza;C
+Tata;Pick Up;C
+Tata;Safari Storme;C
+Tata;Vista;C
+Timor;Timor;C
+Toyota;86;C
+Toyota;Agya;C
+Toyota;Alphard;C
+Toyota;Avanza;C
+Toyota;Calya;C
+Toyota;Camry;C
+Toyota;Corolla;C
+Toyota;Corolla Altis;C
+Toyota;Corrona;C
+Toyota;Crown;C
+Toyota;Dyna;C
+Toyota;Etios Valco;C
+Toyota;Fortuner;C
+Toyota;Hardtop;C
+Toyota;Harrier;C
+Toyota;Hiace;C
+Toyota;Hi-Lux D-Cab ;C
+Toyota;Hi-Lux S-Cab;C
+Toyota;Innova;C
+Toyota;IQ1.2;C
+Toyota;Kijang;C
+Toyota;Land Cruiser;C
+Toyota;Limo;C
+Toyota;Nav1;C
+Toyota;Previa;C
+Toyota;Prius;C
+Toyota;Rush;C
+Toyota;Sienta;C
+Toyota;Soarer;C
+Toyota;Soluna;C
+Toyota;Vellfire;C
+Toyota;Venturer;C
+Toyota;Vios;C
+Toyota;Voxy;C
+Toyota;Wish;C
+Toyota;Yaris;C
+Volkswagen;Beetle;C
+Volkswagen;Caravelle;C
+Volkswagen;Golf;C
+Volkswagen;New Beetle;C
+Volkswagen;PanelVan;C
+Volkswagen;Polo;C
+Volkswagen;Safari;C
+Volkswagen;Scirocco;C
+Volkswagen;Tiguan;C
+Volkswagen;Touareg;C
+Volkswagen;Touran;C
+Volkswagen;Transporter;C
+Volvo;740;C
+Volvo;760;C
+Volvo;850;C
+Volvo;940;C
+Volvo;S40;C
+Volvo;S60;C
+Volvo;S80;C
+Volvo;XC60;C
+Volvo;XC90;C
+Wuling;Confero;C
+Aprilia;SXV Supermoto;M
+Aprilia;RS 125;M
+Aprilia;RS4 50;M
+Aprilia;SR 300;M
+Aprilia;SR 125;M
+Aprilia;SR 50;M
+Aprilia;SRV 850;M
+Aprilia;RSV 1000;M
+Aprilia;Scarabeo;M
+Bajaj;Pulsar;M
+Bajaj;Xceed ;M
+Benelli;BN 600;M
+Benelli;Cafenero 150;M
+Benelli;Motobi 200;M
+Benelli;New Caffenero;M
+Benelli;Patagonian Eagle;M
+Benelli;Pepe;M
+Benelli;Python 200;M
+Benelli;Seta 125;M
+Benelli;TNT 1130 Cafe Racer;M
+Benelli;TNT 135;M
+Benelli;TNT 250;M
+Benelli;TNT 250;M
+Benelli;TNT 899;M
+Benelli;TNT-15;M
+Benelli;X-150;M
+Benelli;Zafferano;M
+Benelli;Zenzero;M
+Cagiva;Mito;M
+Cagiva;Stella 125;M
+Cagiva;Cucciolo;M
+Cagiva;Planet;M
+Cagiva;Canyon;M
+Cagiva;Raptor;M
+Ducati;Diavel;M
+Ducati;Hypermotard;M
+Ducati;Hyperstrada;M
+Ducati;Scarambler;M
+Ducati;Monster;M
+Ducati;Multistrada;M
+Ducati;Superbike Panigale;M
+Harley Davidson;Electra Glide;M
+Harley Davidson;CVO;M
+Harley Davidson;Softail;M
+Harley Davidson;Fat Boy;M
+Harley Davidson;Police;M
+Harley Davidson;Road Glide;M
+Harley Davidson;Sportster;M
+Honda;Beat;M
+Honda;CB150R ;M
+Honda;CBR 150R ;M
+Honda;PCX ;M
+Honda;Scoopy ;M
+Honda;Vario;M
+Honda;Astrea Star ;M
+Honda;Blade 125 ;M
+Honda;CB500F;M
+Honda;SH150i;M
+Honda;CB500X;M
+Honda;CB650F;M
+Honda;CBR 1000 RR SP;M
+Honda;CBR250RR ;M
+Honda;CMX 500 Rebel;M
+Honda;CRF 1000L Africa Twin;M
+Honda;CRF250RALLY ;M
+Honda;MegaPro;M
+Honda;Prima;M
+Honda;New Sonic 150 R ;M
+Honda;New Spacy Fi ;M
+Honda;Sonic;M
+Honda;Supra;M
+Honda;Supra Fit;M
+Honda;New Supra GTR 150 ;M
+Honda;New Supra X 125 Fi ;M
+Honda;Revo;M
+Honda;Revo AT;M
+Honda;Verza 150 ;M
+Honda;CS 1;M
+Honda;Tiger;M
+Honda;Kirana;M
+Kawasaki;D-Tracker 150 ;M
+Kawasaki;D-Tracker 250 ;M
+Kawasaki;ER-6n ;M
+Kawasaki;Estrella ;M
+Kawasaki;KSR PRO ;M
+Kawasaki;Ninja 250 ;M
+Kawasaki;Ninja 250 RR Mono;M
+Kawasaki;Ninja 300 ;M
+Kawasaki;Ninja 650 ;M
+Kawasaki;Ninja H2 ;M
+Kawasaki;Ninja H2 carbon ;M
+Kawasaki;Ninja ZX10-R ;M
+Kawasaki;Ninja ZX-14R ;M
+Kawasaki;Ninja ZX-6R 636 ;M
+Kawasaki;Versys 1000 ;M
+Kawasaki;Versys 650 ;M
+Kawasaki;Versys-X 250 ;M
+Kawasaki;Vulcan S ;M
+Kawasaki;W800 ;M
+Kawasaki;Z 1000 ;M
+Kawasaki;Z 125 PRO ;M
+Kawasaki;Z 250 ;M
+Kawasaki;Z 650 ;M
+Kawasaki;Z 800 ;M
+Kawasaki;Z 900 ;M
+Kawasaki;KLX;M
+Kawasaki;Ninja RR;M
+Kawasaki;Ninja R;M
+KTM;RC 250;M
+KTM;1050 Adventure;M
+KTM;1190 Adventure;M
+KTM;1290 Super Duke R;M
+KTM;1290 Super Adventure;M
+KTM;1190 RC8 R;M
+KTM;RC 200;M
+KTM;RC 390;M
+KTM;Duke 200;M
+KTM;Duke 250;M
+KTM;Duke 390;M
+Kymco;Downtown 200;M
+Kymco;Racing King 150i;M
+Kymco;Downtown 400;M
+Kymco;Free LX;M
+Kymco;Xciting 250;M
+Piaggio;Liberty;M
+Piaggio;Madley;M
+Piaggio;MP3;M
+Piaggio;Beverly;M
+Suzuki;Address Fi;M
+Suzuki;Nex;M
+Suzuki;Shogun;M
+Suzuki;GSX-R 150 ;M
+Suzuki;GSX-S 150;M
+Suzuki;Inazuma ;M
+Suzuki;Satria ;M
+Suzuki;Smash ;M
+Suzuki;Thunder;M
+Suzuki;Sky Wave;M
+Suzuki;V-Strom 650 ;M
+Suzuki;Arashi;M
+Suzuki;Spin;M
+SYM;GTS;M
+SYM;Joyride;M
+SYM;Joymax;M
+SYM;Wolf ;M
+SYM;Attile;M
+SYM;Magic X;M
+SYM;Maxsym 400;M
+SYM;Maxsym 600;M
+SYM;Shark ;M
+Triumph;Scrambler;M
+Triumph;bobber;M
+Triumph;Tiger;M
+Triumph;Tiger Explorer;M
+Triumph;Bonneville;M
+Triumph;Rocket III;M
+Triumph;Street Triple;M
+Triumph;Daytona 675;M
+Triumph;Thruxton;M
+TVS;Apache ;M
+TVS;Dazz Digitech R – DFI ;M
+TVS;Max 125;M
+TVS;Neo XR ;M
+TVS;Rockz New ;M
+Vespa;946;M
+Vespa;Super;M
+Vespa;GTS ;M
+Vespa;LX ;M
+Vespa;Primavera ;M
+Vespa;S ;M
+Vespa;Sprint ;M
+Viar;Cross X ;M
+Viar;Vortex;M
+Viar;250 ES;M
+Yamaha;Aerox ;M
+Yamaha;Byson;M
+Yamaha;R15 ;M
+Yamaha;Soul GT ;M
+Yamaha;Jupiter MX King 150 ;M
+Yamaha;Jupiter MX ;M
+Yamaha;Jupiter Z1 ;M
+Yamaha;Mio M3;M
+Yamaha;MT-25 ;M
+Yamaha;Neuvo;M
+Yamaha;Fino;M
+Yamaha;Nmax ;M
+Yamaha;R25 ;M
+Yamaha;Vega Force ;M
+Yamaha;Vixion ;M
+Yamaha;Xabre;M
+Yamaha;Tmax;M
+Yamaha;R1;M
+Yamaha;MT09;M
+Yamaha;R6;M
+Yamaha;Lexam;M
+Yamaha;Xmax ;M
+Yamaha;F1ZR;M
+Yamaha;X-Ride ;M
+Yamaha;RX King;M
+Yamaha;Scorpio;M
+Yamaha;Vega;M
+Yamaha;N Max;M
+Yamaha;YZF R 15;M
+Yamaha;Soul;M
