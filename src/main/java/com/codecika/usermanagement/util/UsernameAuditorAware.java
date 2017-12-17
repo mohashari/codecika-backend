@@ -1,5 +1,6 @@
 package com.codecika.usermanagement.util;
 
+import com.codecika.usermanagement.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.domain.AuditorAware;

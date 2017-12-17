@@ -14,13 +14,5 @@ import org.springframework.stereotype.Repository;
 public interface UserRepository extends BaseRepository<User> {
 
     User findByUsernameIgnoreCase(String username);
-    Page<User> findByRole(Role role, Pageable pageable);
-    Page<User> findByStatusAdmin(String status, Pageable pageable);
-    Page<User> findByRoleAndUsernameLike(Role role, String username, Pageable pageable);
-    Page<User> findByStatusAdminAndUsernameLike(String statusAdmin, String username, Pageable pageable);
-
-    Integer countByRole(Role role);
-
-    User findByUsernameIgnoreCaseAndStatusLogin(String username,String status);
 
 }

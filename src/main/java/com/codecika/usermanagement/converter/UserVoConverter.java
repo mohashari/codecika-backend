@@ -1,5 +1,6 @@
 package com.codecika.usermanagement.converter;
 
+import com.codecika.usermanagement.enums.Gender;
 import com.codecika.usermanagement.enums.Role;
 import com.codecika.usermanagement.persistence.domain.User;
 import com.codecika.usermanagement.util.ExtendedSpringBeanUtil;
@@ -25,9 +26,14 @@ public class UserVoConverter extends BaseVoConverter<UserVO, UserVO, User>
             Role role = Role.valueOf(vo.getRole());
             model.setRole(role);
         }
+        if(vo.getGender() !=null){
+            Gender gender = Gender.valueOf(vo.getGender());
+            model.setGender(gender);
+        }
 
         ExtendedSpringBeanUtil.copySpecificProperties(vo, model,
-                new String[]{"username", "firstName", "lastName", "phone", "enable","astraId","statusLogin","statusAdmin"});
+                new String[]{"username", "firstName", "lastName", "phone", "userEnable",
+                        "birthDate","birthDate","deviceId","gender","code"});
 
         return model;
     }
@@ -41,8 +47,13 @@ public class UserVoConverter extends BaseVoConverter<UserVO, UserVO, User>
             vo.setRole(model.getRole().getInternalValue());
         }
 
+        if(model.getGender() !=null){
+            vo.setGender(model.getGender().getInternalValue());
+        }
+
         ExtendedSpringBeanUtil.copySpecificProperties(model, vo,
-                new String[]{"username", "firstName", "lastName", "phone", "enable","astraId","statusLogin","statusAdmin"});
+                new String[]{"username", "firstName", "lastName", "phone", "userEnable",
+                        "birthDate","birthDate","deviceId","gender","code"});
 
         return vo;
     }

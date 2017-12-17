@@ -10,9 +10,9 @@ endpoints:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost/codecika-usermanagement
+    url: jdbc:mysql://localhost/codecika
     driver-class-name: com.mysql.jdbc.Driver
-    username: usermanagement
+    username: codecika
     password: welcome1
     type: com.zaxxer.hikari.HikariDataSource
     hikari:
@@ -46,11 +46,11 @@ spring:
 
 keycloak:
   realm: cari-parkir
-  auth-server-url: http://localhost:8080/auth
+  auth-server-url: http://codecika.com:8080/auth
   ssl-required: external
   resource: backend-api
   credentials:
-    secret: aea20e1d-4aa6-47cf-8058-ddfbe3d86643
+    secret: 8c240f44-1d56-4e13-b0de-1e60f9df117c
   securityConstraints[0]:
       authRoles[0]: admin
       authRoles[1]: superadmin
@@ -63,7 +63,7 @@ keycloak:
 
 username:
   admin:
-    keycloak: admin
+    keycloak: keycloak
 password:
   admin:
     keycloak: welcome1
@@ -85,9 +85,9 @@ spring:
     password: welcome1
 
 keycloak:
-  auth-server-url: http://cariparkir.nostratech.com:10001/auth
+  auth-server-url: codecika.com:8080/auth
   credentials:
-    secret: 054b4b90-c3bb-4762-812e-0779291a1fef
+    secret: 8c240f44-1d56-4e13-b0de-1e60f9df117c
 
 username:
   admin:

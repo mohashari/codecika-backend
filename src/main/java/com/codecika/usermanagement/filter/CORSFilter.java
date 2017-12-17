@@ -1,5 +1,6 @@
 package com.codecika.usermanagement.filter;
 
+import com.codecika.usermanagement.service.UserService;
 import org.keycloak.KeycloakPrincipal;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

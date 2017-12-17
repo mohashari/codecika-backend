@@ -1,5 +1,6 @@
 package com.codecika.usermanagement.vo;
 
+import com.codecika.usermanagement.enums.Gender;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
@@ -19,14 +20,19 @@ public class UserVO extends BaseVO {
 
     String phone;
     String role;
-    Boolean enable;
 
-    @JsonProperty("astra_id")
-    Long astraId;
+    @JsonProperty("user_enable")
+    Boolean userEnable;
 
-    @JsonProperty("status_login")
-    String statusLogin;
+    @JsonProperty("birthdate")
+    private String birthDate;
 
-    @JsonProperty("status_admin")
-    String statusAdmin;
+    @JsonProperty("device_id")
+    private String deviceId;
+
+    private String gender;
+
+    private String keycloakId;
+
+    private String code;
 }

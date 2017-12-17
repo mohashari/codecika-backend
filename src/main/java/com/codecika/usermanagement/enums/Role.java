@@ -4,17 +4,9 @@ package com.codecika.usermanagement.enums;
  * Created by yukibuwana on 3/31/17.
  */
 public enum Role implements BaseModelEnum<String> {
+   M("member"),
     A("admin"),
-    S("surveyor"),
-    C("consumer"),
-    M("mitra"),
-    Z("superadmin"),
-    U("admin_usermanagement"),
-    L("admin_location"),
-    I("admin_info"),
-    P("admin_promo"),
-    D("admin_claim"),
-    V("admin_view");
+    T("trainer");
 
     private String internalValue;
 
